@@ -1,0 +1,24 @@
+{
+  "name": "cash",
+  "version": "1.0.0",
+  "description": "Cash register project for learning mocha",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/holmesworcester/cash/"
+  },
+  "author": "Holmes Wilson",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
